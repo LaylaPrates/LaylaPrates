@@ -14,12 +14,4 @@
 
 ---
 
-### 📈 GitHub Stats:
-<div align="center">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=SeuUsuario&show_icons=true&theme=radical"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=SeuUsuario&layout=compact&langs_count=7&theme=radical"/>
-</div>
-
----
-
 ⭐ *Obrigado por visitar meu perfil!*
